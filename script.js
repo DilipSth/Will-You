@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!! Thankyou for being my Valentine Baby Hengkha💕 <br> <br> <br> Click this: https://thnakyou.vercel.app/";
+  titleElement.innerHTML = "Yayyy!! Thankyou for being my Valentine Baby Hengkha💕 <br> <br> <br> Click this: https://thankyou-v2tr.vercel.app/";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
